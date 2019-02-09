@@ -1,0 +1,129 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script>window.html5 || document.write('<s' + 'cript src="js/vendor/html5shiv.js">' + '<' + '/s' + 'cript>');</script>
+<![endif]-->
+<title>Respublica</title>
+<script type="text/javascript">
+window.load_error_log = [];
+window.onerror = function(msg, error_url, line, col) {
+    window.load_error_log.push({msg, error_url, line, col});
+}
+</script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+    window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['pre_early'] = Date.now();
+</script>
+<meta name="referrer" content="origin">
+<script type="text/javascript" crossorigin="anonymous" src="https://dhtiece9044ep.cloudfront.net/package/early_js/011d06d55963daa276fbc2d7cb971df7c3a2097a0fdd16d840686d64b36c0d24/xfalse"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+    window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_early'] = Date.now();
+</script>
+<script type="text/javascript">WebFontConfig = {
+'google': { families: ["Lato","Kalam:300","Open Sans","Open Sans:300"] },
+    active: function() {
+        window.google_web_fonts_active = true;
+        if (window.google_web_fonts_active_cb) {
+            window.google_web_fonts_active_cb();
+        }
+    },
+    fontinactive: function() {
+        console.log('fontinactive being called, Google says the fonts didnt render');
+        window.google_web_fonts_active = true;
+        if (window.google_web_fonts_active_cb) {
+            window.google_web_fonts_active_cb();
+        }
+    }
+}
+window.WebFont.load(WebFontConfig);</script>
+<script type="text/javascript">window.gm_key = "AIzaSyDY8yke6mv4B1eLtu0Ql7b9DgeePA3K_L0";</script>
+<script type="text/javascript">window.glrl_key_status = false;</script>
+<link rel="icon" type="image/png" href="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1539562365166x854307886911556100%2FPNG2icon.png?w=128&h=&auto=compress&fit=max" />
+<meta name="fragment" content="!">
+<meta name="description" content="Respublica is a political simulator where users can run for office and interact with states on a geopolitical level.">
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Respublica" />
+<meta name="twitter:title" content="Respublica" />
+<meta property="og:site_name" content="Respublica" />
+<meta name="twitter:site_name" content="Respublica" />
+<meta property="og:description" content="Respublica is a political simulator where users can run for office and interact with states on a geopolitical level." />
+<meta name="twitter:description" content="Respublica is a political simulator where users can run for office and interact with states on a geopolitical level." />
+<link rel="image_src" href="https://s3.amazonaws.com/appforest_uf/f1539562605046x286016025580465800/PNG2icon.png" />
+<meta property="og:image" content="https://s3.amazonaws.com/appforest_uf/f1539562605046x286016025580465800/PNG2icon.png" />
+<meta name="twitter:image:src" content="https://s3.amazonaws.com/appforest_uf/f1539562605046x286016025580465800/PNG2icon.png" />
+<meta property="og:url" content="https://respublica.co/lower_house?country=UK" />
+<meta property="og:type" content="website" />
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="//s3.amazonaws.com/appforest_uf/f1539563026618x784625684143975400/iphonescreen.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="//s3.amazonaws.com/appforest_uf/f1539563139226x513776346342638140/ipadscreen.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="//s3.amazonaws.com/appforest_uf/f1539563253669x339552834630012540/ipadscreen2.png">
+<link rel="apple-touch-icon" href="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1539562860319x416407167213037630%2FUntitleasdsdICON.png?w=192&h=&auto=compress&fit=max">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<script type="text/javascript">window._p ='{"no_branding":true,"import_export_csv":true,"custom_domain":true}';</script>
+<link type="text/css" href="https://dhtiece9044ep.cloudfront.net/package/run_css/e97fa80e1ebc35d87ad2d61839483c68acd6ebf2711586d3b6f39878fc606b20/influence-geopolitics/live/lower_house/xfalse/xfalse" rel="stylesheet">
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+    window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['pre_runjs'] = Date.now();
+</script>
+<script type="text/javascript" crossorigin="anonymous" src="https://dhtiece9044ep.cloudfront.net/package/run_js/af691273fed8241c19784cfc433a82af6089dbe00b270ac308befa20b106ed1a/xfalse/x5"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+    window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_runjs'] = Date.now();
+</script>
+<script type="text/javascript" crossorigin="anonymous" src="https://dhtiece9044ep.cloudfront.net/package/run_js_page/b6d6930cca3b627b4b6c2b38af0dae00a931d9ab0f85166a975282dc85422a78/influence-geopolitics/live/lower_house/xnull/xfalse/xfalse/xfalse/en_us/xfalse/xfalse"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+    window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_runjspage'] = Date.now();
+</script>
+<script type="text/javascript">Lib().db_instance().initialize_data("1546294622324x363904321358016000", {"_id":"1546294622324x363904321358016000","Created By":"1348695171700984260__LOOKUP__1546294622324x363904321358016000","Created Date":1546294622327,"Modified Date":1549697149981,"user_signed_up":true,"name_text":"Paul Kennedy","authentication":{"email":{"email":"melp8836@gmail.com","email_confirmed":"true"}},"image_image":"//s3.amazonaws.com/appforest_uf/f1548224879135x194678734942397950/Webp.net-resizeimage.jpg","country_text":"UK","region_text":"North West England","campaign_funds_number":1261820.760205255,"liquid_capital_number":195000.80148437526,"party_seniority_number":149,"state_influence_number":100,"wage_number":15000,"funds_increase_number":12000,"server_increment_stage_number":1931,"economic_leaning_text":"Centre Right","social_leaning_text":"Centre Right","advertising_money_cost_number":7952010.2906464245,"chair_votes1_number":1,"ip_text":"2606:6000:d942:6200:e414:bdf7:3563:c71d","national_influence_increate_number":1,"national_influence_number":215.71999999999997,"parliament_seats_number":33,"party_text":"Labour Party","running_for_congress__boolean":true,"time_difference_number":0,"clickedonuser_text":"Paul Kennedy","clickedonusersregion_text":"North West England","clickedonusercountry_text":"UK","clickedonuserparty_text":"Conservative Party","last_seen_date":1549697148896,"description_text":"ORDDDDDDAAAAA!","clickedonparty_text":"Labour Party","clickedonpartychair_text":"John Ruskin","chair_nominee_text":"Paul Kennedy","clickedoncountry_text":"UK","clickedonregion_text":"North West England","congress_seats_number":0,"math2_number":80323.33626915581,"math3_number":1380238.5233151533,"viewing_bill_text":"1549694018573x975595351624908800","song_file":"//s3.amazonaws.com/appforest_uf/f1549517145589x392892383729339460/%27Rule%2C_Britannia%21%27_%28United_States_Army_Strings%29.oga.mp3","mailbox_text":"Inbox","math1_number":0.25,"title_text":"Speaker","party_fees_number":3000,"clickedonoffice_text":"Speaker of the House of Commons","viewing_debate_text":"lower house","stock_cost_number":89500,"wasonmap__boolean":true,"stock_purchasing_text":"BTI","stock_purchasing_amount_number":1000,"stock_processing_boolean":false,"stock_selling_text":"YUM","stock_selling_amount_number":1000,"_type":"user","_version":1795274}, "user", 1795274);</script>
+<meta name="google-site-verification" content="7ziIFOgLHjehFeEriEADB0MT2FE9OKjeLKrSLxtC7CE" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7576814322548981",
+          enable_page_level_ads: true
+     });
+</script>
+</head>
+<body><script type="text/javascript">
+if (window.appquery == null) {
+    css = document.createElement('style');
+css.type='text/css';
+css.appendChild(document.createTextNode(".warning-message-failure {padding: 30px; line-height: 1.5; white-space: pre; z-index: 1000000; position: fixed; width: 100%; height: 100%; background: white;}"));
+document.getElementsByTagName("head")[0].appendChild(css);
+var newDiv = document.createElement("div");
+newDiv.className = "warning-message-failure";
+newDiv.innerHTML = "Your browser was unable to load some necessary resources, contact your IT network administrator and ask him or her to allow access to <br><br>     dhtiece9044ep.cloudfront.net <br>     dd7tel2830j4w.cloudfront.net/ <br>     d1muf25xaso8hp.cloudfront.net";
+document.body.appendChild(newDiv);
+    httpRequest = new XMLHttpRequest();
+httpRequest.open('POST', '/user/m', true);
+httpRequest.setRequestHeader('Content-Type', 'application/json');
+httpRequest.send(JSON.stringify({measures: {page_load_error: 1, url: document.location.href, errors: window.load_error_log}}));
+};
+</script><script type="text/javascript">if (window.appquery && window.app == null) {css = document.createElement('style');
+css.type='text/css';
+css.appendChild(document.createTextNode(".warning-message-failure {padding: 30px; line-height: 1.5; white-space: pre; z-index: 1000000; position: fixed; width: 100%; height: 100%; background: white;}"));
+document.getElementsByTagName("head")[0].appendChild(css);
+var newDiv = document.createElement("div");
+newDiv.className = "warning-message-failure";
+newDiv.innerHTML = "Your browser was unable to load the application data. We've been notified of the issue. Please try again in a few moments and make sure not to use ad-blockers.";
+document.body.appendChild(newDiv);};</script>
+<div style="display: none;">75849jkl432ggfdfdjsakl</div>
+</body>
+</html>
